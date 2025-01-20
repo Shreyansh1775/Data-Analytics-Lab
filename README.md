@@ -13,4 +13,4 @@ Scaler independence: averaging ensures the cost function is independent of the d
 
 Simplified learning rate: averaging keeps the gradient value in range, which helps in tuning the learning rate and ensures stability during gradient descent.
 
-Numerical stability: averaging prevents the cost and gradient from becoming large, which could lead to numberical instability during computation
+Numerical stability: averaging prevents the cost and gradient from becoming large, which could lead to numberical instability during computation.
